@@ -1,0 +1,10 @@
+ O volume na unidade C ‚ Windows-SSD
+ O N£mero de S‚rie do Volume ‚ D281-F105
+
+ Pasta de C:\Users\felip\Downloads\git-aula
+
+28/09/2026  15:45    <DIR>          .
+28/09/2026  15:12    <DIR>          ..
+28/09/2026  15:45                 0 teste.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   88.076.705.792 bytes dispon¡veis
